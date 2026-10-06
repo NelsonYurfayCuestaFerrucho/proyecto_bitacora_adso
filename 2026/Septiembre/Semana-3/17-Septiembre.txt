@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 17/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Exposicion de un proyecto de etapa practica para la Defensa Civil, construido durante cerca de 1 ano con la colaboracion de distintos aprendices del SENA, abordando alcance, funcionalidades y arquitectura general.
+Impedimento: No hubo impedimentos. La exposicion fue comprensible y motivadora, pues permitio ver un caso real donde se aplica lo aprendido.
+Plan de accion: Evaluar si el proyecto interesa lo suficiente como para unirse a el y continuar colaborando en su desarrollo.
