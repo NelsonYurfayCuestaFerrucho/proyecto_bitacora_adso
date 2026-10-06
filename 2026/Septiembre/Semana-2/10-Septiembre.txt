@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 10/09/2026
+hora: 12:30 pm - 1:00 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Lectura y analisis de la guia de la actividad, para tener claro el proposito del ejercicio, el orden de los pasos y las tareas a realizar.
+Impedimento: No se presentaron impedimentos. El tiempo disponible resulto adecuado para entender a cabalidad lo que pedia la actividad.
+Plan de accion: Reconocer los comandos principales que se van a necesitar y dejar listo el entorno de trabajo en Git Bash.
