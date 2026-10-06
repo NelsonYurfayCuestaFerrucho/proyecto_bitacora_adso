@@ -38,3 +38,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Puesta en comun de la guia de commit, repasando las indicaciones, los conceptos y los pasos que se debian seguir.
 Impedimento: No se presentaron inconvenientes. La explicacion fue comprensible y se aclararon las dudas generales del grupo.
 Plan de accion: Volver a leer la guia de commit y dejar listo el entorno para practicar git commit, git log y el control de cambios.
+
+id: 6
+Fecha: 10/09/2026
+hora: 5:20 pm - 6:00 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Actividad 3.2 de contextualizacion, arranque de Git, ramas de trabajo y ramas temporales, con ejemplos escritos en el tablero.
+Impedimento: Sin impedimentos. La explicacion fue entendible y los ejemplos del tablero facilitaron visualizar como funciona el proceso.
+Plan de accion: Ejercitar la creacion de ramas de trabajo y temporales, y volver a revisar en que se diferencian git branch y git checkout -b.
