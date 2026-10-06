@@ -94,3 +94,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Componente 9 - Depuracion de ramas: eliminacion de las ramas ya fusionadas con git branch -d feature y git branch -d develop, verificando con git branch que unicamente quedara main.
 Impedimento: No se presentaron impedimentos. En el historial se aprecia con claridad todo el flujo de trabajo.
 Plan de accion: Conservar todas las capturas de pantalla como evidencia para la bitacora.
+
+id: 13
+Fecha: 17/09/2026
+hora: 3:05 pm - 5:05 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 10 - Comprobacion final y soporte grafico: git log --oneline --graph para ver el historial definitivo con las fusiones y la recuperacion del archivo, con captura de pantalla como prueba grafica.
+Impedimento: No se presentaron impedimentos.
+Plan de accion: Decidir si me uno al proyecto de la Defensa Civil y, si la decision es positiva, iniciar el diseno de la tabla de BD y las consultas SQL.
