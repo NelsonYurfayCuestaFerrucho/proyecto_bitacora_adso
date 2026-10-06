@@ -70,3 +70,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Componente 6 - Archivo recuperado con git reflog: consulta del historial completo hasta ubicar el commit donde todavia estaba tesoro.txt, recuperado con git checkout d79a110 -- tesoro.txt sin desplazar el HEAD. Comprobado con ls y cat tesoro.txt.
 Impedimento: No hubo impedimentos. La recuperacion salio bien y el archivo regreso con el mismo contenido original.
 Plan de accion: Dejar asegurada la recuperacion mediante git add tesoro.txt y git commit -m "Recupero el archivo tesoro desde el pasado".
+
+id: 10
+Fecha: 17/09/2026
+hora: 3:05 pm - 5:05 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 7 - Integracion de feature en develop: regreso a develop con git switch develop y git merge --no-ff feature -m "Integro feature en develop", verificando que el merge se realizara con exito.
+Impedimento: No se presentaron impedimentos. La fusion termino sin problemas.
+Plan de accion: Comprobar que main contenga todos los archivos ya integrados.
