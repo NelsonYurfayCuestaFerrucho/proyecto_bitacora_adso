@@ -38,3 +38,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Componente 2 - Generacion de las ramas develop y feature con git branch develop y git branch feature, confirmando con git branch.
 Impedimento: No se presentaron impedimentos. La creacion de las ramas se realizo sin problemas.
 Plan de accion: Ejercitar y distinguir el uso de git branch frente al de git checkout -b.
+
+id: 6
+Fecha: 17/09/2026
+hora: 3:05 pm - 5:05 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 3 - Desarrollo en develop: cambio a la rama develop con git switch develop, creacion del archivo solucion.txt con nano, git add solution.txt y git commit -m "Desarrollo de la primera prueba funcional del sistema".
+Impedimento: No hubo impedimentos. El archivo se genero y se confirmo mediante commit sin problemas.
+Plan de accion: Comprobar que solucion.txt se encuentre unicamente en develop.
