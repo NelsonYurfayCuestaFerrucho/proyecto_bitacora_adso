@@ -6,3 +6,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Exposicion de un proyecto de etapa practica para la Defensa Civil, construido durante cerca de 1 ano con la colaboracion de distintos aprendices del SENA, abordando alcance, funcionalidades y arquitectura general.
 Impedimento: No hubo impedimentos. La exposicion fue comprensible y motivadora, pues permitio ver un caso real donde se aplica lo aprendido.
 Plan de accion: Evaluar si el proyecto interesa lo suficiente como para unirse a el y continuar colaborando en su desarrollo.
+
+id: 2
+Fecha: 17/09/2026
+hora: 2:15 pm - 2:40 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Informacion de la instructora sobre como vincularse al proyecto Defensa Civil, entregando el diseno de una tabla de base de datos como alternativa a presentar proyecto con ella.
+Impedimento: No se presentaron impedimentos. Quedaron claras las condiciones y el alcance del entregable que se ofrece como alternativa.
+Plan de accion: Analizar si tomo la decision de unirme al proyecto y, en caso afirmativo, comenzar con el diseno de la tabla de base de datos y ejercitar las consultas en SQL.
