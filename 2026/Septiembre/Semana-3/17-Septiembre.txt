@@ -54,3 +54,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Componente 4 - Archivo creado en feature: cambio a la rama feature con git switch feature, creacion de tesoro.txt con nano, git add y git commit -m "Creo el archivo tesoro en feature", hash identificado con git log --oneline.
 Impedimento: Sin inconvenientes. Tanto la creacion del archivo como su commit se realizaron sin errores.
 Plan de accion: Validar que el archivo solucion.txt este presente unicamente en develop.
+
+id: 8
+Fecha: 17/09/2026
+hora: 3:05 pm - 5:05 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 5 - Borrado de tesoro.txt: rm tesoro.txt para quitar el archivo del directorio de trabajo, git add -A para la eliminacion, confirmado con git commit -m "Elimino el archivo tesoro". Revisado con ls y git log --oneline.
+Impedimento: Sin inconvenientes. En el historial de feature quedo anotado el archivo.
+Plan de accion: Dejar escrito el hash del commit, ya que se necesitara mas adelante para la recuperacion.
