@@ -30,3 +30,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Componente 1 - Inicio del repositorio: se creo el repositorio local recuperar-desde-cero mediante git init, se elaboro el archivo base (base.txt) con nano, y se registro con git add base.txt y git commit -m "creacion de la base del desarrollo".
 Impedimento: No hubo impedimentos. Al ejecutar git add aparecio una advertencia sobre LF/CRLF, la cual no tuvo efecto en el resultado.
 Plan de accion: Asociar la dinamica del juego con las nociones de commit, historial y trabajo en equipo en Git.
+
+id: 5
+Fecha: 17/09/2026
+hora: 3:05 pm - 5:05 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 2 - Generacion de las ramas develop y feature con git branch develop y git branch feature, confirmando con git branch.
+Impedimento: No se presentaron impedimentos. La creacion de las ramas se realizo sin problemas.
+Plan de accion: Ejercitar y distinguir el uso de git branch frente al de git checkout -b.
