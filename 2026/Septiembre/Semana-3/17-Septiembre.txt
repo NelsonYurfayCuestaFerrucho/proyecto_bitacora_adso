@@ -78,3 +78,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Componente 7 - Integracion de feature en develop: regreso a develop con git switch develop y git merge --no-ff feature -m "Integro feature en develop", verificando que el merge se realizara con exito.
 Impedimento: No se presentaron impedimentos. La fusion termino sin problemas.
 Plan de accion: Comprobar que main contenga todos los archivos ya integrados.
+
+id: 11
+Fecha: 17/09/2026
+hora: 3:05 pm - 5:05 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 8 - Integracion de develop en main: cambio a main con git switch main y git merge --no-ff develop -m "Integro develop en main", confirmando que el merge fue exitoso.
+Impedimento: No hubo impedimentos. La eliminacion de las ramas se realizo sin errores.
+Plan de accion: Procurar que el repositorio se conserve limpio y ordenado.
