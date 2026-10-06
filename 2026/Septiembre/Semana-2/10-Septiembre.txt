@@ -14,3 +14,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Ejecucion de la actividad Transparencia 3.4 en la terminal Git Bash, resolviendo el ejercicio sobre ramas y conflictos con un cronometro de 2 horas.
 Impedimento: Confusion al fusionar ramas equivocadas, se combinaron ramas que no eran las indicadas y se opto por empezar nuevamente desde cero.
 Plan de accion: Confirmar los nombres de las ramas con git branch antes de cualquier merge, avanzar segun la guia en orden, y practicar git log --graph.
+
+id: 3
+Fecha: 10/09/2026
+hora: 3:30 pm - 4:30 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Kahoot para relajarnos, 2 rondas con el mismo conjunto de preguntas, la primera en grupo y la segunda de forma individual.
+Impedimento: No hubo impedimentos. La dinamica resulto amena y sirvio para disminuir la tension que habia dejado la actividad tecnica.
+Plan de accion: Revisar cuales preguntas se respondieron mal, con el fin de volver a estudiar los temas relacionados.
