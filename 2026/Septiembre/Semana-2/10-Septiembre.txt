@@ -22,3 +22,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Kahoot para relajarnos, 2 rondas con el mismo conjunto de preguntas, la primera en grupo y la segunda de forma individual.
 Impedimento: No hubo impedimentos. La dinamica resulto amena y sirvio para disminuir la tension que habia dejado la actividad tecnica.
 Plan de accion: Revisar cuales preguntas se respondieron mal, con el fin de volver a estudiar los temas relacionados.
+
+id: 4
+Fecha: 10/09/2026
+hora: 4:30 pm - 5:00 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Primera reflexion sobre la nueva guia de commit, minijuego Hackers vs Detectives dividido en 2 equipos para dar con el codigo que lo salvaria todo.
+Impedimento: Sin impedimentos. La dinamica se entendio bien y se desarrollo de forma colaborativa.
+Plan de accion: Establecer la conexion entre lo vivido en el juego y los conceptos de commit, historial y trabajo colaborativo dentro de Git.
