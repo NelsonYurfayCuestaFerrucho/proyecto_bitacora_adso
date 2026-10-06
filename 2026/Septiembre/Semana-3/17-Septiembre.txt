@@ -86,3 +86,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Componente 8 - Integracion de develop en main: cambio a main con git switch main y git merge --no-ff develop -m "Integro develop en main", confirmando que el merge fue exitoso.
 Impedimento: No hubo impedimentos. La eliminacion de las ramas se realizo sin errores.
 Plan de accion: Procurar que el repositorio se conserve limpio y ordenado.
+
+id: 12
+Fecha: 17/09/2026
+hora: 3:05 pm - 5:05 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 9 - Depuracion de ramas: eliminacion de las ramas ya fusionadas con git branch -d feature y git branch -d develop, verificando con git branch que unicamente quedara main.
+Impedimento: No se presentaron impedimentos. En el historial se aprecia con claridad todo el flujo de trabajo.
+Plan de accion: Conservar todas las capturas de pantalla como evidencia para la bitacora.
