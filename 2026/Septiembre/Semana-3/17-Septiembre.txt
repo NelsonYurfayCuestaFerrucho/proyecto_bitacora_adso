@@ -62,3 +62,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Componente 5 - Borrado de tesoro.txt: rm tesoro.txt para quitar el archivo del directorio de trabajo, git add -A para la eliminacion, confirmado con git commit -m "Elimino el archivo tesoro". Revisado con ls y git log --oneline.
 Impedimento: Sin inconvenientes. En el historial de feature quedo anotado el archivo.
 Plan de accion: Dejar escrito el hash del commit, ya que se necesitara mas adelante para la recuperacion.
+
+id: 9
+Fecha: 17/09/2026
+hora: 3:05 pm - 5:05 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 6 - Archivo recuperado con git reflog: consulta del historial completo hasta ubicar el commit donde todavia estaba tesoro.txt, recuperado con git checkout d79a110 -- tesoro.txt sin desplazar el HEAD. Comprobado con ls y cat tesoro.txt.
+Impedimento: No hubo impedimentos. La recuperacion salio bien y el archivo regreso con el mismo contenido original.
+Plan de accion: Dejar asegurada la recuperacion mediante git add tesoro.txt y git commit -m "Recupero el archivo tesoro desde el pasado".
