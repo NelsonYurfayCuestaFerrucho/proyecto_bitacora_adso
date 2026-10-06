@@ -46,3 +46,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Componente 3 - Desarrollo en develop: cambio a la rama develop con git switch develop, creacion del archivo solucion.txt con nano, git add solution.txt y git commit -m "Desarrollo de la primera prueba funcional del sistema".
 Impedimento: No hubo impedimentos. El archivo se genero y se confirmo mediante commit sin problemas.
 Plan de accion: Comprobar que solucion.txt se encuentre unicamente en develop.
+
+id: 7
+Fecha: 17/09/2026
+hora: 3:05 pm - 5:05 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 4 - Archivo creado en feature: cambio a la rama feature con git switch feature, creacion de tesoro.txt con nano, git add y git commit -m "Creo el archivo tesoro en feature", hash identificado con git log --oneline.
+Impedimento: Sin inconvenientes. Tanto la creacion del archivo como su commit se realizaron sin errores.
+Plan de accion: Validar que el archivo solucion.txt este presente unicamente en develop.
