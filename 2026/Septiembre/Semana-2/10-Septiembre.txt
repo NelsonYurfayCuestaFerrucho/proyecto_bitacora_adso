@@ -30,3 +30,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Primera reflexion sobre la nueva guia de commit, minijuego Hackers vs Detectives dividido en 2 equipos para dar con el codigo que lo salvaria todo.
 Impedimento: Sin impedimentos. La dinamica se entendio bien y se desarrollo de forma colaborativa.
 Plan de accion: Establecer la conexion entre lo vivido en el juego y los conceptos de commit, historial y trabajo colaborativo dentro de Git.
+
+id: 5
+Fecha: 10/09/2026
+hora: 5:00 pm - 5:20 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Puesta en comun de la guia de commit, repasando las indicaciones, los conceptos y los pasos que se debian seguir.
+Impedimento: No se presentaron inconvenientes. La explicacion fue comprensible y se aclararon las dudas generales del grupo.
+Plan de accion: Volver a leer la guia de commit y dejar listo el entorno para practicar git commit, git log y el control de cambios.
