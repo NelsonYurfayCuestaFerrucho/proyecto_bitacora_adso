@@ -22,3 +22,11 @@ autor: Juan David Esteban Carvajal Gualdron
 Actividad: Indicaciones sobre la actividad de Git: cada accion, por pequena que sea, se tomara como un componente evaluable (git init, eliminar archivos, crear o comentar algo).
 Impedimento: No hubo impedimentos. Aunque la explicacion fue corta, resulto comprensible.
 Plan de accion: Comenzar a registrar en la bitacora cada accion de Git como un componente propio.
+
+id: 4
+Fecha: 17/09/2026
+hora: 3:05 pm - 5:05 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 1 - Inicio del repositorio: se creo el repositorio local recuperar-desde-cero mediante git init, se elaboro el archivo base (base.txt) con nano, y se registro con git add base.txt y git commit -m "creacion de la base del desarrollo".
+Impedimento: No hubo impedimentos. Al ejecutar git add aparecio una advertencia sobre LF/CRLF, la cual no tuvo efecto en el resultado.
+Plan de accion: Asociar la dinamica del juego con las nociones de commit, historial y trabajo en equipo en Git.
