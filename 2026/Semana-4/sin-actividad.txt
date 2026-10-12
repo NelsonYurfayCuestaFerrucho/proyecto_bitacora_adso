@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: No aplica
+hora: No aplica
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: No hubo clase ni formacion registrada durante esta semana.
+Impedimento: No aplica.
+Plan de accion: No aplica.
