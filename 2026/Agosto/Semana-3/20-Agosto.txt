@@ -1,0 +1,40 @@
+
+id: 1
+Fecha: 20/08/2026
+hora: 12:45 pm - 12:59 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Apertura oficial de la jornada de formacion, dando inicio a la agenda programada y estableciendo los objetivos y la dinamica de trabajo para la sesion.
+Impedimento: Ningun impedimento, hora de llegada adecuada para iniciar la jornada.
+Plan de accion: Realizacion de las actividades asignadas.
+
+id: 2
+Fecha: 20/08/2026
+hora: 1:00 pm - 3:00 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Introduccion al trabajo con la guia de la terminal, dando paso a la ejecucion de las actividades practicas destinadas a la apropiacion del conocimiento.
+Impedimento: Ningun impedimento, comprension y dominio total sobre el tema.
+Plan de accion: Identificacion de la necesidad de profundizar en el manejo de la linea de comandos (CLI), buscando mayor destreza en el traslado por el sistema de archivos y el uso eficiente de herramientas.
+
+id: 3
+Fecha: 20/08/2026
+hora: 3:30 pm - 4:25 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Apertura de la guia CLI, introduccion al manejo de la terminal, abordando tanto la lectura conceptual como el desarrollo de sus ejercicios.
+Impedimento: Ningun impedimento, comprension y dominio total sobre el tema.
+Plan de accion: Identificacion de la necesidad de profundizar en el manejo de la linea de comandos (CLI), buscando mayor destreza en el traslado por el sistema de archivos y el uso eficiente de herramientas.
+
+id: 4
+Fecha: 20/08/2026
+hora: 4:30 pm - 4:50 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Realizacion de la evaluacion interactiva en Kahoot sobre los contenidos de la guia CLI, poniendo a prueba la retencion conceptual del tema.
+Impedimento: Participacion en la actividad interactiva grupal donde, a pesar de las limitaciones de tiempo que afectaron el resultado general, logre un buen desempeno destacandome dentro del equipo.
+Plan de accion: Identificacion de la necesidad de profundizar en los conceptos clave para mejorar la agilidad mental en la resolucion de problemas y optimizar el flujo de trabajo.
+
+id: 5
+Fecha: 20/08/2026
+hora: 5:00 pm - 6:30 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Realizacion y consolidacion de la evidencia de transferencia, orientada a la solucion practica de problemas basados en los contenidos aprendidos.
+Impedimento: Ningun impedimento, comprension y dominio total sobre el tema.
+Plan de accion: Identificacion de la necesidad de profundizar en el manejo de la linea de comandos (CLI), buscando mayor destreza en el traslado por el sistema de archivos y el uso eficiente de herramientas.
