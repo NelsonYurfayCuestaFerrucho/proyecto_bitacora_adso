@@ -1,0 +1,109 @@
+  GNU nano 9.2                                 Bitacora4
+
+
+
+
+id: 1
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Socializacion del proyecto de etapa practica para la Defensa Civil, un proyecto amplio de casi 1 ano con contribuciones sucesivas de varios aprendices del SENA, explicando alcance, funcionalidades y arquitectura general.
+Impedimento: Sin inconvenientes. La presentacion se entendio bien y resulto inspiradora.
+Plan de accion: Considerar si el proyecto despierta interes y, de ser asi, vincularme para seguir contribuyendo a su avance.
+
+id: 2
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Aclaracion de la instructora sobre la opcion de unirse al proyecto Defensa Civil, presentando una tabla de base de datos ya disenada en vez de sustentar un proyecto con ella.
+Impedimento: Sin inconvenientes. La explicacion dejo bien definidos los requisitos y hasta donde llega el entregable alterno.
+Plan de accion: Decidir si me vinculo al proyecto; si la respuesta es si, iniciar el diseno de la tabla de la base de datos y practicar consultas SQL.
+
+id: 3
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Explicacion sobre como se evaluara Git: cada accion, por pequena que sea, se toma como un componente que se califica (git init, eliminar archivos, crear o comentar un elemento).
+Impedimento: Sin inconvenientes. La explicacion fue concisa pero suficiente.
+Plan de accion: Iniciar el registro de cada una de las acciones de Git en la bitacora, tratandola como un componente individual.
+
+id: 4
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 1 - Puesta en marcha del repositorio: con git init se genero el repositorio local recuperar-desde-cero, se redacto el archivo base (base.txt) en nano, registrado con git add base.txt y git commit -m "creacion de la base del desarrollo".
+Impedimento: Sin inconvenientes. El comando git add arrojo un aviso relacionado con LF/CRLF, aunque el resultado no se vio alterado.
+Plan de accion: Conectar la actividad del juego con los conceptos de commit, historial y labor colaborativa en Git.
+
+id: 5
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 2 - Armado de las ramas develop y feature con git branch develop y git branch feature, confirmadas con git branch.
+Impedimento: Sin inconvenientes. Ambas ramas quedaron creadas de manera correcta.
+Plan de accion: Repasar en la practica en que se diferencian git branch y git checkout -b.
+
+id: 6
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 3 - Labor sobre develop: con git switch develop se cambio a esa rama, se elaboro el archivo solucion.txt con nano, seguido de git add solution.txt y git commit -m "Desarrollo de la primera prueba funcional del sistema".
+Impedimento: Sin inconvenientes. La creacion del archivo y su commit se completaron de forma correcta.
+Plan de accion: Confirmar que el archivo solucion.txt exista solo en la rama develop.
+
+id: 7
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 4 - Generacion del archivo en la rama feature: con git switch feature se paso a esa rama, se redacto tesoro.txt en nano, luego git add + git commit -m "Creo el archivo tesoro en feature", hash localizado con git log --oneline.
+Impedimento: Sin inconvenientes. Tanto la creacion del archivo como su commit se realizaron sin errores.
+Plan de accion: Validar que el archivo solucion.txt este presente unicamente en develop.
+
+id: 8
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 5 - Eliminacion de tesoro.txt: rm tesoro.txt elimino el archivo del directorio de trabajo, git add -A preparo el cambio, guardado con git commit -m "Elimino el archivo tesoro". Verificado con ls y git log --oneline.
+Impedimento: Sin inconvenientes. En el historial de feature quedo anotado el archivo.
+Plan de accion: Registrar el hash del commit con el fin de usarlo despues en la recuperacion.
+
+id: 9
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 6 - Recuperacion de tesoro.txt mediante git reflog: con git reflog se reviso todo el historial hasta dar con el commit donde tesoro.txt aun existia, recuperado con git checkout d79a110 -- tesoro.txt sin mover el HEAD. Verificado con ls y cat tesoro.txt.
+Impedimento: Sin inconvenientes. El proceso de recuperacion fue exitoso, el archivo reaparecio con su contenido original.
+Plan de accion: Confirmar los cambios de la recuperacion ejecutando git add tesoro.txt y git commit -m "Recupero el archivo tesoro desde el pasado".
+
+id: 10
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 7 - Union de la rama feature con develop: cambio a develop con git switch develop, luego git merge --no-ff feature -m "Integro feature en develop", constatando que el merge fue exitoso.
+Impedimento: Sin inconvenientes. El proceso de fusion se llevo a cabo de forma correcta.
+Plan de accion: Revisar que la rama main cuente con la totalidad de los archivos integrados.
+
+id: 11
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 8 - Union de develop con main: con git switch main se cambio a main, se corrio git merge --no-ff develop -m "Integro develop en main" y se verifico que el merge se completara exitosamente.
+Impedimento: Sin inconvenientes. Las ramas fueron borradas de manera correcta.
+Plan de accion: Conservar el repositorio en buen orden y sin elementos innecesarios.
+
+id: 12
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 9 - Limpieza del conjunto de ramas: las ramas fusionadas se eliminaron con git branch -d feature y git branch -d develop, confirmando con git branch que solo permanecia main.
+Impedimento: Sin inconvenientes. El historial refleja de forma evidente el flujo de trabajo en su totalidad.
+Plan de accion: Almacenar la totalidad de las capturas para usarlas como evidencia en la bitacora.
+
+id: 13
+Fecha: 24/09/2026
+hora: 12:45 pm - 2:15 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Componente 10 - Revision final y evidencia en imagen: con git log --oneline --graph se visualizo el historial final con las fusiones y la recuperacion del archivo, con captura de pantalla como evidencia grafica del resultado exitoso.
+Impedimento: Sin impedimentos.
+Plan de accion: Resolver si me vinculo al proyecto de la Defensa Civil; de ser asi, empezar a trabajar en el diseno de la tabla de BD y en las consultas SQL.
+
