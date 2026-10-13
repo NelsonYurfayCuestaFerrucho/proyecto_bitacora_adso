@@ -1,0 +1,32 @@
+
+id: 1
+Fecha: 06/08/2026
+hora: 12:50 pm - 1:50 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Se realizo la revision de la actividad de auditoria junto con la lista de verificacion asignada al momento de transparencia disponible en Classroom. Tambien se estudiaron los aspectos que seran tenidos en cuenta para la evaluacion y se organizaron los productos solicitados para su respectiva entrega.
+Impedimento: No se presentaron inconvenientes durante la revision inicial de la actividad.
+Plan de accion: Iniciar el proceso de auditoria y diligenciamiento de la lista de chequeo.
+
+id: 2
+Fecha: 06/08/2026
+hora: 1:50 pm - 3:00 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Se llevo a cabo la revision de los documentos correspondientes a la bitacora y la guia elaborada por otro companero, aplicando el proceso de auditoria y registrando los resultados en la lista de verificacion. Durante la actividad se comprobo que los elementos evaluados respondieran a los criterios previamente definidos.
+Impedimento: Se identifico que la bitacora personal no habia sido realizada por el companero de trabajo por lo que se comunico al instructor presente.
+Plan de accion: Realizar las actividades asignadas correspondientes.
+
+id: 3
+Fecha: 06/08/2026
+hora: 3:00 pm - 4:00 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Se realizaron los ajustes necesarios al entregable, organizando la bitacora de acuerdo con el formato establecido. Ademas, se recopilaron y estructuraron las evidencias obtenidas durante la auditoria, incluyendo la lista de chequeo como soporte del proceso realizado.
+Impedimento: El inconveniente inicial se registro en la auditoria y se reporto en la lista de chequeo de transferencia.
+Plan de accion: Manejar el horario impuesto para la entrega de la sustentacion.
+
+id: 4
+Fecha: 06/08/2026
+hora: 4:00 pm - 6:30 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Se participo en la presentacion y discusion de los resultados obtenidos durante la auditoria, donde algunos aprendices fueron seleccionados de manera aleatoria para explicar y sustentar el trabajo realizado y los aspectos identificados durante el proceso.
+Impedimento: No se realizo la sustentacion, ya que la sesion termino antes de que se seleccionara al aprendiz.
+Plan de accion: Preparar la sustentacion para la siguiente sesion de formacion cuando el instructor continue con los aprendices pendientes.
