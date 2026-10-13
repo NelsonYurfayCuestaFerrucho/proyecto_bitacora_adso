@@ -1,0 +1,40 @@
+
+id: 1
+Fecha: 06/08/2026
+hora: 1:05 pm - 1:30 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Presentacion de la nueva actividad y revision guiada de la terminal, incluyendo un espacio para la lectura de las instrucciones.
+Impedimento: Llegada con retraso a la sesion, requiriendo un espacio de puesta al tanto para ponerme al dia con las instrucciones del trabajo.
+Plan de accion: Alineacion con el equipo e instructor para recibir retroalimentacion sobre las indicaciones dadas y el seguimiento del trabajo.
+
+id: 2
+Fecha: 06/08/2026
+hora: 1:30 pm - 2:00 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Explicacion de la actividad de reflexion inicial, orientada a la preparacion y desarrollo del entregable.
+Impedimento: Sin impedimentos.
+Plan de accion: Tomar apuntes y prestar atencion a las actividades asignadas con sus debidas indicaciones.
+
+id: 3
+Fecha: 06/08/2026
+hora: 2:00 pm - 3:00 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Exposicion de los hallazgos investigativos respecto a las personas con discapacidad visual y sus logros mas destacados.
+Impedimento: Sin impedimentos.
+Plan de accion: Realizar los siguientes puntos de la reflexion inicial y completarlos segun las indicaciones de las guias, despues de las presentaciones investigadas.
+
+id: 4
+Fecha: 06/08/2026
+hora: 3:30 pm - 3:50 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Elaboracion y actualizacion de la bitacora de seguimiento, registrando los avances consolidados desde el inicio de la jornada de formacion.
+Impedimento: Sin impedimentos.
+Plan de accion: Concluir con la actividad realizada.
+
+id: 5
+Fecha: 06/08/2026
+hora: 5:44 pm - 6:10 pm
+autor: Juan David Esteban Carvajal Gualdron
+Actividad: Continuacion y ejecucion practica de la actividad de apropiacion en la terminal.
+Impedimento: Sin impedimentos.
+Plan de accion: Estudiar y retroalimentarme mas sobre el uso de la terminal.
