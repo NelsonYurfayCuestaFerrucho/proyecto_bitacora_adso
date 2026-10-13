@@ -1,7 +1,0 @@
-
-
-ID: 3
-Fecha: Septiembre 2026
-Actividad: Configuración de la estructura base del proyecto y control de versiones.
-Descripción: Creación de la estructura del repositorio de proyectos en Git/GitHub, organización de ramas feature por semanas y documentación de bitácoras de seguimiento.
-
