@@ -1,5 +1,7 @@
 
-ID: 2
+
+ID: 3
 Fecha: Septiembre 2026
-Actividad: Modelado de base de datos y diagramación.
-Descripción: Elaboración del modelo entidad-relación (DER) en MySQL Workbench. Definición de tablas, llaves primarias, llaves foráneas y tipos de datos principales.
+Actividad: Configuración de la estructura base del proyecto y control de versiones.
+Descripción: Creación de la estructura del repositorio de proyectos en Git/GitHub, organización de ramas feature por semanas y documentación de bitácoras de seguimiento.
+
