@@ -22,3 +22,12 @@ autor: Nelson Yurfay Cuesta Ferrucho
 Actividad: Configuración de colaboradores y clonación: se configuró el acceso al repositorio, se agregaron colaboradores y se clonó en los equipos locales, resolviendo dudas sobre permisos y autenticación.
 Impedimento: Sin impedimentos operativos.
 Plan de accion: Practicar la creación de repositorios, agregar colaboradores y clonar repositorios para afianzar el flujo de trabajo colaborativo. Realizar pruebas de push y pull con el grupo.
+
+id: 4
+Fecha: 08/10/2026
+hora: 12:45 pm - 2:15 pm
+autor: Nelson Yurfay Cuesta Ferrucho
+Actividad: Práctica colaborativa en GitHub: se realizaron modificaciones de archivos, commits y sincronización mediante push y pull para validar el flujo de trabajo colaborativo entre los integrantes del grupo.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Reforzar el uso de comandos git pull y git push, y prepararse para la siguiente actividad de la guía de GitHub.
+
